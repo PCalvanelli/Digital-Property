@@ -3,31 +3,16 @@
 Welcome to the GitHub repository for my open-source book, "Digital Property Rights"! This book is aimed at anyone interested in understanding the intersection of Bitcoin and property rights.
 
 ## Overview
-This book aims to explore the concept of digital property rights and how they relate to Bitcoin. It covers the following topics:
 
-- Chapter 1: Introduction to Bitcoin and property rights
-- Chapter 2: The legal landscape of digital property rights
-- Chapter 3: Technical aspects of Bitcoin and property rights
-- Chapter 4: Smart contracts and digital property rights
-- Chapter 5: Case studies of digital property rights in action
-...
+This book aims to explore the concept of digital property rights and how they relate to Bitcoin. It covers the following topics.
 
 ## Contributing
+
 This is an open-source book, and contributions are welcome! If you would like to contribute to the book, please read the CONTRIBUTING.md file for guidelines on how to do so.
 
 ## License
+
 This book is released under the MIT license. See the LICENSE file for more information.
-
-## Chapters
-
-The content of the book is organized into the following chapters:
-
-- Chapter 1: Introduction
-- Chapter 2: Legal Landscape
-- Chapter 3: Technical Aspects
-- Chapter 4: Smart Contracts
-- Chapter 5: Case Studies
-...
 
 ## Resources
 
